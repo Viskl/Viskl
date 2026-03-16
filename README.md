@@ -16,6 +16,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+## 🎯 TryHackMe
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sebastianchrzanowski97.png)](https://tryhackme.com/p/sebastianchrzanowski97)
+
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
